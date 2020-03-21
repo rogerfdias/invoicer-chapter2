@@ -11,7 +11,7 @@ The master branch is kept at https://securing-devops.com/invoicer but if you are
 interested in chapter-specific versions of the invoicer.
 
 Get your own copy
------------------
+------------------
 
 To try out the code in this repository, first create a fork in your own github
 account. Now before you do anything, edit the file in `.circleci/config.yml` and
