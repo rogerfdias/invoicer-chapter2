@@ -14,7 +14,7 @@ Get your own copy
 The master branch is kept at https://securing-devops.com/invoicer but if you are
 interested in chapter-specific versions of the invoicer.
 
-Get your own copyyyyyyy
+GGet your own copyyyyyyy
 ------------------
 >>>>>>> testrevert
 
