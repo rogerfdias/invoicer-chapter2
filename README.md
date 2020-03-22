@@ -21,7 +21,7 @@ For example:
 ```yaml
     working_directory: /go/src/github.com/Securing-DevOps/invoicer-chapter2
 ```
-would become:
+would become::
 ```yaml
     working_directory: /go/src/github.com/jvehent/invoicer-chapter2
 ```
