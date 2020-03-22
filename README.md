@@ -7,8 +7,16 @@ This is the code for Chapter 3 of Securing DevOps. It contains the code and
 scripts discussed in chapter 2 to the basic setup of the invoicer application and
 infrastructure, plus the improvements implemented in chapter 3.
 
+<<<<<<< HEAD
 Get your own copy
 -----------------
+=======
+The master branch is kept at https://securing-devops.com/invoicer but if you are
+interested in chapter-specific versions of the invoicer.
+
+GGet your own copyyyyyyy
+------------------
+>>>>>>> testrevert
 
 To try out the code in this repository, first create a fork in your own github
 account. Now before you do anything, edit the file in `.circleci/config.yml` and
